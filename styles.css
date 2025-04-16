@@ -29,4 +29,28 @@ ul li a {
     color: white;
     font-size: 18px;
 }
+.wstep {
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+
+.wstep h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #111;
+}
+
+.wstep p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: #111;
+}
+
+.przekier {
+    padding: 10px;
+    background-color: #e60012;
+    color: white;
+    border-radius: 5px;
+}
 
