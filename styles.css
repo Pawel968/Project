@@ -92,3 +92,17 @@ ul li a {
     font-size: 20px;
 }
 
+.info {
+    padding: 20px;
+    text-align: center;
+}
+
+.info h2 {
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.info p {
+    font-size: 20px;
+}
+
