@@ -136,4 +136,28 @@ ul li a {
     margin-bottom: 10px;
 }
 
+.usługi {
+    padding: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.usługi h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.usługi p {
+    font-size: 25px;
+}
+
+.usługi ul {
+    padding: 0;
+}
+
+.usługi li {
+    font-size: 20px;
+    margin: 15px;
+}
+
 
