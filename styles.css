@@ -106,3 +106,34 @@ ul li a {
     font-size: 20px;
 }
 
+.cechy {
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.cechy h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.li_cech {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cechy2 {
+    width: 50%;
+    margin-bottom: 20px;
+    background-color: lightgray;
+    padding: 20px;
+    box-shadow: 10px black;
+}
+
+.cechy2 h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
