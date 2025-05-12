@@ -160,4 +160,45 @@ ul li a {
     margin: 15px;
 }
 
+.kontakt {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.kontakt form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.kontakt label {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+.kontakt input, .kontakt textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.kontakt button {
+    padding: 20px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
 
